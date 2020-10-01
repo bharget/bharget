@@ -12,6 +12,11 @@ Welcome to my Github.
 * A custom sales tool for tracking and managing upcoming native ad placements. (Both Web, Email, and Podcasts)
 * More coming soon! ...
 
+📫 How to reach me:
+* Email: hargettbenjamin@gmail.com
+* Twitter: [@hargettly](https://twitter.com/hargettly)
+
+
 
 <!--
 **bharget/bharget** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
