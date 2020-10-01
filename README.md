@@ -16,6 +16,16 @@ Welcome to my Github.
 * Email: hargettbenjamin@gmail.com
 * Twitter: [@hargettly](https://twitter.com/hargettly)
 
+⚡ Tech I love...
+* Ruby on Rails
+* ReactJS
+
+
+🌱 I’m currently learning ...
+* Golang
+* Terraform
+* Docker
+
 
 
 <!--
