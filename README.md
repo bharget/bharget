@@ -7,7 +7,7 @@ Welcome to my Github.
 
 💬 Ask me about the behind the scenes tech at the Brew! Some things we've built:
 
-* A custom referral program to drive growth
+* A custom referral program to drive growth.
 * An editorial CMS to make building high engagement newsletters a breeze.
 * A custom sales tool for tracking and managing upcoming native ad placements. (Both Web, Email, and Podcasts)
 * More coming soon! ...
