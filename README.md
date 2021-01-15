@@ -2,7 +2,7 @@
 
 Welcome to my Github.
 
-☕ I’m currently working on building a multimedia platform at Morning Brew targeted at business professionals.
+☕ I’m currently working on building a multimedia platform at [Morning Brew](https://www.morningbrew.com/?utm_source=bharget_github) targeted at business professionals.
 
 
 💬 Ask me about the behind the scenes tech at the Brew! Some things we've built:
