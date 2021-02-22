@@ -21,5 +21,5 @@ Welcome to my Github.
 * ReactJS
 
 💎 My Latest Open Source Projects
-* [Has State Machine](https://github.com/encampment/heroicon) — Ruby gem to make creating a finite state machines in ActiveRecord a breeze.
+* [Has State Machine](https://github.com/encampment/has_state_machine) — Ruby gem to make creating a finite state machines in ActiveRecord a breeze.
 * [Heroicon](https://github.com/bharget/heroicon) — Ruby on Rails view helpers for the beautiful hand-crafted SVG icons, Heroicons.
