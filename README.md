@@ -14,7 +14,7 @@ Welcome to my Github.
 
 📫 How to reach me:
 * Email: hargettbenjamin@gmail.com
-* Twitter: [@bnjmnhrgtt](https://twitter.com/bnjmnhrgtt)
+* Twitter: [@hargettly](https://twitter.com/hargettly)
 
 ⚡ Tech I love...
 * Ruby on Rails
