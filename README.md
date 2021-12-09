@@ -1,29 +1,18 @@
-<!-- ### Hi there 👋
+Hi! I'm Benjamin, co-founder at [beehiiv 🐝](https://www.beehiiv.com?utm_source=bharget_github) — a next-gen newsletter platform on a mission to help creators and businesses seamlessly create, monetize, and grow their audiences.
 
-Welcome to my Github.
+👷‍♂️ Some cool things we've built (we use Ruby and React):
+* Email and website builder (no-code) — complete with advanced customization that makes newsletters stand out in the inbox
+* ESP quality sending — built for scale with superior analytics and deliverability
+* Custom domain support for both web and email
+* Many, _many_ more things coming soon... (Sound interesting? Join our team 👉 [https://careers.beehiiv.com](https://careers.beehiiv.com/?utm_source=bharget_github))
 
-☕ I’m currently working on building a multimedia platform at [Morning Brew](https://www.morningbrew.com/?utm_source=bharget_github) targeted at business professionals.
-
-
-💬 Ask me about the behind the scenes tech at the Brew! Some things we've built:
-
-* A custom referral program to drive growth.
-* An editorial CMS to make building high engagement newsletters a breeze.
-* A custom sales tool for tracking and managing upcoming native ad placements. (Both Web, Email, and Podcasts)
-* More coming soon! ...
-
-📫 How to reach me:
-* Email: hargettbenjamin@gmail.com
+🤝 I'd love to connect; reach out to me via email or Twitter!
+* Email: [hargett@duck.com](mailto:hargett@duck.com)
 * Twitter: [@hargettly](https://twitter.com/hargettly)
 
-⚡ Tech I love...
-* Ruby on Rails
-* ReactJS
+---
 
-💎 My Latest Open Source Projects
-* [Has State Machine](https://github.com/encampment/has_state_machine) — Ruby gem to make creating a finite state machines in ActiveRecord a breeze.
+💎 My Open Source Projects
 * [Heroicon](https://github.com/bharget/heroicon) — Ruby on Rails view helpers for the beautiful hand-crafted SVG icons, Heroicons.
 * [Telephone](https://github.com/bharget/telephone) — Utilities for creating and calling service objects in ruby.
-
-
- -->
+* [Has State Machine](https://github.com/beehiiv/has_state_machine) — Ruby gem to make creating a finite state machine in ActiveRecord a breeze.
